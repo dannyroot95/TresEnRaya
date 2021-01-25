@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "600757714120",
+    "project_id": "tres-en-raya-a2266",
+    "storage_bucket": "tres-en-raya-a2266.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:600757714120:android:133bcc13d9ed23205139fd",
+        "android_client_info": {
+          "package_name": "com.soft.tresenrayamultiplayer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "600757714120-lr4mv9ip1qo65jq1e6b1fe0rd7d2jmjd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.soft.tresenrayamultiplayer",
+            "certificate_hash": "f90acd66171d32a732df1b361b83ba70919da18b"
+          }
+        },
+        {
+          "client_id": "600757714120-lijndh5vgf5u7ehks8bbfh8kunjon257.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIU83QDSTFOK4Y5-dEOtEYSRtRGSxoMbU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "600757714120-lijndh5vgf5u7ehks8bbfh8kunjon257.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="ThemePrimary" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">#516395</item>
+        <item name="colorPrimaryDark">#614385</item>
+        <item name="colorAccent">#614385</item>
+        <item name="windowActionBar">true</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="ThemeOverlay" parent="ThemeOverlay.AppCompat.Dialog.Alert">
+        <item name="colorPrimary">#000</item>
+        <item name="colorPrimaryDark">#000</item>
+        <item name="colorAccent">#000</item>
+        <item name="fontFamily">@font/futura</item>
+    </style>
+
+</resources>
